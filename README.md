@@ -6,7 +6,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=risavjhagithubrit&theme=alduin" alt="risavjhagithubrit" /></a> </p>
 
 - 📫 How to reach me **risavkumarjha055@gmail.com**
-- RESUME LINK: https://drive.google.com/file/d/11hV4Rn0vaJDN-g-UUj6NWwtD4XaGEBla/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
